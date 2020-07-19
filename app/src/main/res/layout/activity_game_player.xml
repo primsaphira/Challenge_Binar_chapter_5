@@ -62,7 +62,7 @@
             android:layout_width="78dp"
             android:layout_height="wrap_content"
             android:layout_marginStart="10dp"
-            android:text=" "
+            android:text="Pemain 1/ Anda "
             app:layout_constraintBottom_toTopOf="@id/batu1"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/tvPemainMenang">
